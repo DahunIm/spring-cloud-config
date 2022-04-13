@@ -11,3 +11,6 @@ token:
 
 gateway:
   ip: 192.168.35.115
+
+order_service:
+  url: http://localhost:8080/order-service/%s/orders
